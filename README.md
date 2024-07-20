@@ -10,6 +10,7 @@
 
 ## 💡 Favorite Quote on Data:-
 "Without data, you're just another person with an opinion." – W. Edwards Deming
+"In God we trust, all others bring data." – W. Edwards Deming
 
 ## 💻 Tech Stack
 - **Programming Languages:** Python, SQL
@@ -19,6 +20,12 @@
 - **Data Engineering:** Apache Airflow, Apache Kafka
 - **Machine Learning & Deep Learning:** TensorFlow, Keras
 - **Development & Deployment:** Anaconda, Docker
+## 🌟 Recommendations
+- "Ranjan has a keen eye for detail and a strong ability to turn data into actionable insights." – Former Manager
+- "His expertise in data science and machine learning has been a tremendous asset to our projects." – Colleague
+
+## 🚀 Career Objectives
+I aim to leverage my skills and experience in data science and analytics to contribute to innovative projects and drive business success. I am particularly interested in opportunities that allow me to work on challenging problems, collaborate with diverse teams, and continue learning and growing in the field of data science.
 
 <!---
 rpjinu/rpjinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
