@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm passionate about transforming raw data into meaningful insights.
 
 ## 💡 Favorite Quote on Data:-
-"Without data, you're just another person with an opinion." – W. Edwards Deming
+"Without data, you're just another person with an opinion." – W. Edwards Deming\
 "In God we trust, all others bring data." – W. Edwards Deming
 
 ## 💻 Tech Stack
