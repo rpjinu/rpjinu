@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about transforming raw data into meaningful insights.
 
-## 💡 Random Quote for Data Analysts
+## 💡 Favorite Quote on Data:-
 "Without data, you're just another person with an opinion." – W. Edwards Deming
 
 ## 💻 Tech Stack
