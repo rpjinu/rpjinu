@@ -9,8 +9,9 @@
 - ⚡ Fun fact: I'm passionate about transforming raw data into meaningful insights.
 
 ## 💡 Favorite Quote on Data:-
-"Without data, you're just another person with an opinion." – W. Edwards Deming\
-"In God we trust, all others bring data." – W. Edwards Deming
+1."Data is the new oil."— Clive Humby\
+2."Without data, you're just another person with an opinion." – W. Edwards Deming\
+3."The goal is to turn data into information, and information into insight."— Carly Fiorina
 
 ## 💻 Tech Stack
 - **Programming Languages:** Python, SQL
